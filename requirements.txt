@@ -1,0 +1,2 @@
+#Es el control de versiones, para que siempre corramos lo mismo.
+django==3.2.6
